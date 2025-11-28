@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1732759500001,
+        "ref": "POST-001",
+        "designation": "Poster Art Abstrait - Grande Taille",
+        "quantity": 15,
+        "price": 299.99,
+        "image": "",
+        "notes": "Collection moderne, très populaire"
+    },
+    {
+        "id": 1732759500002,
+        "ref": "POST-002",
+        "designation": "Poster Paysage Montagne",
+        "quantity": 25,
+        "price": 199.99,
+        "image": "",
+        "notes": "Best-seller, réassort fréquent"
+    },
+    {
+        "id": 1732759500003,
+        "ref": "POST-003",
+        "designation": "Poster Minimaliste Noir & Blanc",
+        "quantity": 30,
+        "price": 149.99,
+        "image": "",
+        "notes": "Design épuré, tendance"
+    },
+    {
+        "id": 1732759500004,
+        "ref": "POST-004",
+        "designation": "Poster Botanique - Feuilles Tropicales",
+        "quantity": 20,
+        "price": 179.99,
+        "image": "",
+        "notes": "Collection nature"
+    },
+    {
+        "id": 1732759500005,
+        "ref": "POST-005",
+        "designation": "Poster Vintage Paris",
+        "quantity": 12,
+        "price": 249.99,
+        "image": "",
+        "notes": "Édition limitée"
+    },
+    {
+        "id": 1732759500006,
+        "ref": "FRAME-001",
+        "designation": "Cadre Bois Naturel 50x70cm",
+        "quantity": 40,
+        "price": 89.99,
+        "image": "",
+        "notes": "Compatible avec posters standards"
+    },
+    {
+        "id": 1732759500007,
+        "ref": "FRAME-002",
+        "designation": "Cadre Aluminium Noir 40x60cm",
+        "quantity": 35,
+        "price": 119.99,
+        "image": "",
+        "notes": "Finition premium"
+    },
+    {
+        "id": 1732759500008,
+        "ref": "POST-006",
+        "designation": "Poster Citation Motivationnelle",
+        "quantity": 50,
+        "price": 99.99,
+        "image": "",
+        "notes": "Parfait pour bureaux"
+    },
+    {
+        "id": 1732759500009,
+        "ref": "POST-007",
+        "designation": "Poster Océan & Vagues",
+        "quantity": 18,
+        "price": 189.99,
+        "image": "",
+        "notes": "Photographie haute qualité"
+    },
+    {
+        "id": 1732759500010,
+        "ref": "POST-008",
+        "designation": "Poster Géométrique Coloré",
+        "quantity": 22,
+        "price": 159.99,
+        "image": "",
+        "notes": "Design contemporain"
+    },
+    {
+        "id": 1732759500011,
+        "ref": "FRAME-003",
+        "designation": "Cadre Doré Vintage 30x40cm",
+        "quantity": 15,
+        "price": 139.99,
+        "image": "",
+        "notes": "Style classique"
+    },
+    {
+        "id": 1732759500012,
+        "ref": "POST-009",
+        "designation": "Poster Carte du Monde Aquarelle",
+        "quantity": 28,
+        "price": 219.99,
+        "image": "",
+        "notes": "Décoration voyage"
+    },
+    {
+        "id": 1732759500013,
+        "ref": "ACC-001",
+        "designation": "Kit de Fixation Murale",
+        "quantity": 100,
+        "price": 19.99,
+        "image": "",
+        "notes": "Accessoire essentiel"
+    },
+    {
+        "id": 1732759500014,
+        "ref": "POST-010",
+        "designation": "Poster Animaux Scandinaves",
+        "quantity": 32,
+        "price": 169.99,
+        "image": "",
+        "notes": "Style nordique"
+    },
+    {
+        "id": 1732759500015,
+        "ref": "POST-011",
+        "designation": "Poster Architecture Moderne",
+        "quantity": 14,
+        "price": 229.99,
+        "image": "",
+        "notes": "Photos urbaines"
+    }
+]
