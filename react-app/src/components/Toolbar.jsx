@@ -1,7 +1,7 @@
 import React from 'react';
 import './Toolbar.css';
 
-function Toolbar({ onPrint, onExportCSV, onExportJSON, onImport }) {
+function Toolbar({ onPrint, onExportCSV, onExportJSON, onImport, onShowLogs }) {
     return (
         <div className="toolbar">
             <div>
@@ -13,6 +13,9 @@ function Toolbar({ onPrint, onExportCSV, onExportJSON, onImport }) {
                 </button>
                 <button className="btn btn-primary" onClick={onExportJSON}>
                     💾 Export JSON
+                </button>
+                <button className="btn btn-info" onClick={onShowLogs} style={{ marginLeft: '5px' }}>
+                    📋 Logs
                 </button>
                 <label htmlFor="import-file" className="btn btn-success import-btn">
                     📥 Importer
